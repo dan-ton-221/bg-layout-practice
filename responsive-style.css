@@ -1,0 +1,12 @@
+.container {
+    padding: 300px;
+    border: 2px solid blue;
+}
+
+.col {
+    border: 3px dotted red;
+}
+
+.row {
+    border: 2px dotted green;
+}
